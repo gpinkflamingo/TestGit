@@ -1,2 +1,0 @@
-# TestGit
-Exercice OpenClassroom
